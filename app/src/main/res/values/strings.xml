@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ejercicio_cuatro</string>
+    <string name="hint_title">Ingrese una cadena</string>
+    <string name="autor">Alex Martinez Gonzalez</string>
+    <string name="chk_negrita">Negrita</string>
+    <string name="chk_cursiva">Cursiva</string>
 </resources>
